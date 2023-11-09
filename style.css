@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgb(232, 251, 255);
+    font-family: 'Poppins', sans-serif;
+}
+h3{
+    color: #00b4d8;
+}
+h1{
+    color: #02367b;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+h4{
+    color: rgb(0, 0, 0);
+}
+p{
+    color: #000000;
+    font-size: large;
+}
